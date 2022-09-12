@@ -1,0 +1,19 @@
+{
+    "editor.tabSize": 4,
+    "editor.fontSize": 24,
+    //"editor.insertSpaces": true,
+    // 使用空格缩进,以及将缩进转换为空格
+    "editor.detectIndentation": false,
+    "editor.renderControlCharacters": true,
+    "editor.renderWhitespace": "all",
+    // 原来的字体支持, ‘Droid Sans Mono’, ‘monospace’, monospace, ‘Droid Sans Fallback’
+    //“workbench.colorTheme”: “Quiet Light”,
+    "git.confirmSync": true,
+    "remote.SSH.showLoginTerminal": true,
+    "editor.fontFamily": "monospace",
+    "editor.fontLigatures": false,
+    "files.autoGuessEncoding": true,
+    "files.autoSave": "afterDelay",
+    "editor.formatOnType": true,
+    "editor.frmatOnSave": true
+}

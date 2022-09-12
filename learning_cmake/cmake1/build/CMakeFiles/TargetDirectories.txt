@@ -1,0 +1,3 @@
+/home/jy/cmake_learning/cmake1/build/CMakeFiles/edit_cache.dir
+/home/jy/cmake_learning/cmake1/build/CMakeFiles/rebuild_cache.dir
+/home/jy/cmake_learning/cmake1/build/CMakeFiles/subsets_cpp.dir

@@ -1,0 +1,3 @@
+/home/jy/Downloads/learning_cmake/cmake3/build/CMakeFiles/rebuild_cache.dir
+/home/jy/Downloads/learning_cmake/cmake3/build/CMakeFiles/01.dir
+/home/jy/Downloads/learning_cmake/cmake3/build/CMakeFiles/edit_cache.dir
